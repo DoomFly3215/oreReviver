@@ -1,0 +1,7 @@
+name: OreReviver
+version: '${project.version}'
+main: uk.co.doomfly.orereviver.OreReviver
+api-version: 1.19
+commands:
+  oregive:
+    description: A give command.
